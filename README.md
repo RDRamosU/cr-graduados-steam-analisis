@@ -130,6 +130,13 @@ jupyter notebook
 
 ---
 
+## 📰 Artículo publicado
+
+Análisis completo publicado en LinkedIn:  
+[Graduados STEAM de las Universidades Estatales de Costa Rica](https://www.linkedin.com/pulse/graduados-steam-de-las-universidades-estatales-costa-rica-zaj4e)
+
+---
+
 ## 👤 Autor
 
 **Ruben Dario Ramos**
