@@ -75,10 +75,10 @@ cr-graduados-steam-analisis/
 
 | Notebook | Descripción | Estado |
 |----------|-------------|--------|
-| [01 — Definición del problema](notebooks/01_definicion_problema.ipynb) | Contexto, preguntas de análisis e inventario de fuentes | 🟡 En progreso |
-| [02 — Exploración de datos](notebooks/02_exploracion_datos.ipynb) | Extracción de tablas del PDF y primera inspección | ⚪ Pendiente |
-| [03 — Limpieza y preparación](notebooks/03_limpieza_preparacion.ipynb) | Normalización, validación cruzada y dataset final | ⚪ Pendiente |
-| [04 — Visualizaciones y hallazgos](notebooks/04_visualizaciones_hallazgos.ipynb) | Gráficas, tendencias y conclusiones | ⚪ Pendiente |
+| [01 — Definición del problema](notebooks/01_definicion_problema.ipynb) | Contexto, preguntas de análisis e inventario de fuentes | 🟢 Completado |
+| [02 — Exploración de datos](notebooks/02_exploracion_datos.ipynb) | Extracción de tablas del PDF y primera inspección | 🟢 Completado |
+| [03 — Limpieza y preparación](notebooks/03_limpieza_preparacion.ipynb) | Normalización, validación cruzada y dataset final | 🟢 Completado |
+| [04 — Visualizaciones y hallazgos](notebooks/04_visualizaciones_hallazgos.ipynb) | Gráficas, tendencias y conclusiones | 🟢 Completado |
 
 ---
 
@@ -123,10 +123,10 @@ jupyter notebook
 
 | # | Proyecto | Estado |
 |---|----------|--------|
-| **1** | **Graduados STEAM en CR 2014–2022** ← estás aquí | 🟡 En progreso |
-| 2 | Mercado laboral tech en CR | ⚪ Pendiente |
-| 3 | Habilidades demandadas por empresas tech en CR | ⚪ Pendiente |
-| 4 | Comparativa regional: CR vs Latinoamérica en STEAM | ⚪ Pendiente |
+| **1** | **Graduados STEAM en CR 2014–2022** ← estás aquí | [🟢 Completado](https://www.linkedin.com/pulse/graduados-steam-de-las-universidades-estatales-costa-rica-zaj4e) |
+| 2 | [Mercado laboral tech en CR](https://github.com/RDRamosU/mercado-laboral-steam-cr) | 🟢 Completado |
+| 3 | [Habilidades demandadas tech CR](https://github.com/RDRamosU/cr-habilidades-demanda-tech) | 🟢 Completado |
+| 4 | [CR vs Latinoamérica en STEAM](https://github.com/RDRamosU/cr-steam-comparativa-regional) | 🟢 Completado |
 
 ---
 
